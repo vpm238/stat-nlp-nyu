@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Vishal
+   last: Motwani
+email: vpm238@nyu.edu
+leaderboard: Vish
