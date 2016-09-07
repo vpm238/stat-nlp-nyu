@@ -3,4 +3,4 @@ name:
    first: Vishal
    last: Motwani
 email: vpm238@nyu.edu
-leaderboard: Vish
+leaderboard: ~vish~
